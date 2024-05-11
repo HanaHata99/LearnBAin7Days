@@ -1,4 +1,4 @@
-
+#RFM
 import pandas as pd
 
 df['Thời gian tạo đơn'] = pd.to_datetime(df['Thời gian tạo đơn'])
